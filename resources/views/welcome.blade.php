@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>
-          Play | Free Tailwind CSS Template for Startup and SaaS By TailGrids
+          Play | Company Profile
         </title>
         <link
           rel="shortcut icon"
@@ -117,7 +117,7 @@
                       </li>
                       <li class="relative group">
                         <a
-                          href="#about"
+                          href="#product"
                           class="
                             ud-menu-scroll
                             text-base text-dark
@@ -133,7 +133,7 @@
                             xl:ml-12
                           "
                         >
-                          About
+                          Products
                         </a>
                       </li>
                       <li class="relative group">
@@ -154,12 +154,12 @@
                             xl:ml-12
                           "
                         >
-                          Pricing
+                          News
                         </a>
                       </li>
                       <li class="relative group">
                         <a
-                          href="#team"
+                          href="#news"
                           class="
                             ud-menu-scroll
                             text-base text-dark
@@ -175,7 +175,28 @@
                             xl:ml-12
                           "
                         >
-                          Team
+                          Program
+                        </a>
+                      </li>
+                      <li class="relative group">
+                        <a
+                          href="#about"
+                          class="
+                            ud-menu-scroll
+                            text-base text-dark
+                            lg:text-white
+                            lg:group-hover:opacity-70
+                            lg:group-hover:text-white
+                            group-hover:text-primary
+                            py-2
+                            lg:py-6 lg:inline-flex lg:px-0
+                            flex
+                            mx-8
+                            lg:mr-0 lg:ml-7
+                            xl:ml-12
+                          "
+                        >
+                          About Us
                         </a>
                       </li>
                       <li class="relative group">
@@ -196,7 +217,7 @@
                             xl:ml-12
                           "
                         >
-                          Contact
+                          Contact Us
                         </a>
                       </li>
                       <li class="relative group submenu-item">
@@ -263,20 +284,7 @@
                               px-4
                             "
                           >
-                            About Page
-                          </a>
-                          <a
-                            href="pricing"
-                            class="
-                              block
-                              text-sm text-body-color
-                              rounded
-                              hover:text-primary
-                              py-[10px]
-                              px-4
-                            "
-                          >
-                            Pricing Page
+                            About Us Page
                           </a>
                           <a
                             href="contact"
@@ -289,10 +297,10 @@
                               px-4
                             "
                           >
-                            Contact Page
+                            Contact Us Page
                           </a>
                           <a
-                            href="blog-grids"
+                            href="news"
                             class="
                               block
                               text-sm text-body-color
@@ -302,10 +310,10 @@
                               px-4
                             "
                           >
-                            Blog Grid Page
+                            News Page
                           </a>
                           <a
-                            href="blog-details"
+                            href="product"
                             class="
                               block
                               text-sm text-body-color
@@ -315,10 +323,10 @@
                               px-4
                             "
                           >
-                            Blog Details Page
+                            Product Page
                           </a>
                           <a
-                            href="signup"
+                            href="program"
                             class="
                               block
                               text-sm text-body-color
@@ -328,72 +336,17 @@
                               px-4
                             "
                           >
-                            Sign Up Page
+                            Program Page
                           </a>
-                          <a
-                            href="signin"
-                            class="
-                              block
-                              text-sm text-body-color
-                              rounded
-                              hover:text-primary
-                              py-[10px]
-                              px-4
-                            "
-                          >
-                            Sign In Page
-                          </a>
-                          <a
-                            href="404"
-                            class="
-                              block
-                              text-sm text-body-color
-                              rounded
-                              hover:text-primary
-                              py-[10px]
-                              px-4
-                            "
-                          >
-                            404 Page
-                          </a>
+
+
                         </div>
                       </li>
                     </ul>
                   </nav>
                 </div>
                 <div class="sm:flex justify-end hidden pr-16 lg:pr-0">
-                  <a
-                    href="signin"
-                    class="
-                      text-base
-                      font-medium
-                      text-white
-                      hover:opacity-70
-                      py-3
-                      px-7
-                      loginBtn
-                    "
-                  >
-                    Sign In
-                  </a>
-                  <a
-                    href="signup"
-                    class="
-                      text-base
-                      font-medium
-                      text-white
-                      bg-white bg-opacity-20
-                      rounded-lg
-                      py-3
-                      px-6
-                      hover:bg-opacity-100 hover:text-dark
-                      signUpBtn
-                      duration-300
-                      ease-in-out
-                    "
-                  >
-                    Sign Up
-                  </a>
+
                 </div>
               </div>
             </div>
@@ -433,7 +386,7 @@
                       mb-8
                     "
                   >
-                    Open-Source Web Template for SaaS, Startup, Apps, and More
+                    Buku-Buku-Unik
                   </h1>
                   <p
                     class="
@@ -446,8 +399,8 @@
                       max-w-[600px]
                     "
                   >
-                    Multidisciplinary Web Template Built with Your Favourite
-                    Technology - HTML Bootstrap, Tailwind and React NextJS.
+                    Membaca Adalah
+                    Jendela Dunia.
                   </p>
                   <ul class="flex flex-wrap items-center justify-center mb-10">
                     <li>

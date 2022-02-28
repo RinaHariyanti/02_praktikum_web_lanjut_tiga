@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\ContactUsController;
+use App\Http\Controllers\ProgramController;
+use App\Http\Controllers\NewsController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,32 +29,21 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/404', function () {
-    return view('404');
+Route::get('/news', function () {
+    return view('news');
 });
 
-Route::get('/blog-details', function () {
-    return view('blog-details');
+Route::get('/program', function () {
+    return view('program');
 });
 
-Route::get('/blog-grids', function () {
-    return view('blog-grids');
+Route::get('/products', function () {
+    return view('products');
 });
 
 Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/pricing', function () {
-    return view('pricing');
-});
-
-Route::get('/signin', function () {
-    return view('signin');
-});
-
-Route::get('/signup', function () {
-    return view('signup');
-});
 
 
