@@ -36,7 +36,7 @@
       <div class="container">
         <div class="flex -mx-4 items-center justify-between relative">
           <div class="px-4 w-60 max-w-full">
-            <a href="welcome.blade.php" class="navbar-logo w-full block py-5">
+            <a href="home.blade.php" class="navbar-logo w-full block py-5">
               <img
                 src="images/logo/logo-white.svg"
                 alt="logo"
